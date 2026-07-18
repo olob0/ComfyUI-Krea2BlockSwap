@@ -1,0 +1,4 @@
+# Development-only files kept in git but excluded from the published registry archive.
+tests/
+*.psd
+.vscode/
